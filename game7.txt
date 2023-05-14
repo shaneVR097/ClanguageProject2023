@@ -1,0 +1,135 @@
+
+ Enter starter player#
+( enter '1' or '2' ) :  2
+
+ Enter sign-choice for player 2 ,
+( enter '1-> X' or '2-> O' or'3-> x' or'4-> o' ) :  4
+
+ Game Starts....
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 2 enter position choice to make move-no. 1: 1
+
+ ~~~ CheckBoard is looking like after move no. 1 ~~~
+
+ o  |  !  |  !
+ !  |  !  |  !
+ !  |  !  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 1 enter position choice to make move-no. 2: 2
+
+ ~~~ CheckBoard is looking like after move no. 2 ~~~
+
+ o  |  x  |  !
+ !  |  !  |  !
+ !  |  !  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 2 enter position choice to make move-no. 3: 4
+
+ ~~~ CheckBoard is looking like after move no. 3 ~~~
+
+ o  |  x  |  !
+ o  |  !  |  !
+ !  |  !  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 1 enter position choice to make move-no. 4: 5
+
+ ~~~ CheckBoard is looking like after move no. 4 ~~~
+
+ o  |  x  |  !
+ o  |  x  |  !
+ !  |  !  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 2 enter position choice to make move-no. 5: 7
+
+ ~~~ CheckBoard is looking like after move no. 5 ~~~
+
+ o  |  x  |  !
+ o  |  x  |  !
+ o  |  !  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 1 enter position choice to make move-no. 6: 8
+
+ ~~~ CheckBoard is looking like after move no. 6 ~~~
+
+ o  |  x  |  !
+ o  |  x  |  !
+ o  |  x  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 2 enter position choice to make move-no. 7: 3
+
+ ~~~ CheckBoard is looking like after move no. 7 ~~~
+
+ o  |  x  |  o
+ o  |  x  |  !
+ o  |  x  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 1 enter position choice to make move-no. 8: 6
+
+ ~~~ CheckBoard is looking like after move no. 8 ~~~
+
+ o  |  x  |  o
+ o  |  x  |  x
+ o  |  x  |  !
+
+  1  |  2  |  3
+  4  |  5  |  6
+  7  |  8  |  9
+
+ player# 2 enter position choice to make move-no. 9: 9
+
+ ~~~ CheckBoard is looking like after move no. 9 ~~~
+
+ o  |  x  |  o
+ o  |  x  |  x
+ o  |  x  |  o
+
+         <->-<->-<->-<->-<->-<->-<->-<->
+          Present Scores of the Game are......
+          Score of player#1 is : 1 pts
+         Score of player#2 is : 1 pts
+         <->-<->-<->-<->-<->-<->-<->-<->
+          Final Results of the Game are:
+          This Game is a TIE between player-#1 & #2
+
+         <->-<->-<->-<->-<->-<->-<->-<->
+
+
+
+ Do you wanna play another game ? Press 0 to play...1
+
+
+ Thanks for playing...
+--------------------------------
+Process exited after 53.82 seconds with return value 13
+Press any key to continue . . .
